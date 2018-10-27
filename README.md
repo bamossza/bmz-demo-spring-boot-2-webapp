@@ -1,2 +1,3 @@
-# bmz-demo-spring-boot-jenkins-deploy
-Deploy webapp to Tomcat after Maven build on Jenkins
+# bmz-demo-spring-boot-2-webapp
+
+Demo spring boot 2 webapp
